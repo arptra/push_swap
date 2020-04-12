@@ -12,8 +12,8 @@ To do this you have the following operations at your disposal:
 **sa** :swap **A**-swap the first 2 elements at the top of stack **A**. Do nothing if thereis only one or no elements.  
 **sb** :swap **B**-swap the first 2 elements at the top of stack **B**. Do nothing if thereis only one or no elements.  
 **ss** :**sa** and **sb** at the same time.  
-**pa** :push **A**-take the first element at the top of **B** and put it at the top of **A**. Donothing ifbis empty.  
-**pb** :push **B**-take the first element at the top of **A** and put it at the top of **B**. Donothing ifais empty.  
+**pa** :push **A**-take the first element at the top of **B** and put it at the top of **A**. Donothing if **B** is empty.  
+**pb** :push **B**-take the first element at the top of **A** and put it at the top of **B**. Donothing if **A** is empty.  
 **ra** :rotate **A**-shift up all elements of stack **A** by 1. The first element becomesthe last one.  
 **rb** :rotate **B**-shift up all elements of stack **B** by 1. The first element becomesthe last one.  
 **rr** :**ra** and **rb** at the same time.  
