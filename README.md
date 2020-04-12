@@ -1,6 +1,9 @@
 # push_swap
 
 The game is composed of 2 stacks named **A** and **B**.  
+
+![Image alt](https://github.com/arptra/push_swap/blob/master/pic/ps_0.png)
+
 To start with:  
   **A** contains a random number of either positive or negative numbers withoutany duplicates.  
 	**B** is empty.  
