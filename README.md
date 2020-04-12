@@ -2,7 +2,7 @@
 
 The game is composed of 2 stacks named **A** and **B**.  
 To start with:  
-  **A** contains a random number of either positive or negative numbers withoutany duplicates.  
+  **A** contains a random number of either positive or negative numbers without any duplicates.  
   **B** is empty.  
   
   ![Image alt](https://github.com/arptra/push_swap/blob/master/pic/ps_0.png)
