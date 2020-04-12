@@ -1,14 +1,14 @@
 # push_swap
 
 The game is composed of 2 stacks named **A** and **B**.  
-
-![Image alt](https://github.com/arptra/push_swap/blob/master/pic/ps_0.png)
-
 To start with:  
   **A** contains a random number of either positive or negative numbers withoutany duplicates.  
-	**B** is empty.  
-	The goal is to sort in ascending order numbers into stack **A**.  
-	To do this you have the following operations at your disposal:  
+  **B** is empty.  
+  
+  ![Image alt](https://github.com/arptra/push_swap/blob/master/pic/ps_0.png)
+
+The goal is to sort in ascending order numbers into stack **A**.  
+To do this you have the following operations at your disposal:  
 **sa** :swap **A**-swap the first 2 elements at the top of stack **A**. Do nothing if thereis only one or no elements.  
 **sb** :swap **B**-swap the first 2 elements at the top of stack **B**. Do nothing if thereis only one or no elements.  
 **ss** :**sa** and **sb** at the same time.  
