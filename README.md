@@ -1,6 +1,9 @@
 # push_swap
-
-The game is composed of 2 stacks named **A** and **B**.  
+The project consists of two programs:  
+1. The first `./push_swap` sorts the stack and outputs a sequential set of commands to the standard output stream of the required ones.  
+2. The second `./checker` checks that the stack is sorted ascending  
+  
+### The game is composed of 2 stacks named **A** and **B**.  
 To start with:  
   **A** contains a random number of either positive or negative numbers without any duplicates.  
   **B** is empty.  
