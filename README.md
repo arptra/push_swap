@@ -20,3 +20,16 @@ To do this you have the following operations at your disposal:
 **rra** :reverse rotate **A**-shift down all elements of stack **A** by 1. The last elementbecomes the first one.  
 **rrb** :reverse rotate **B**-shift down all elements of stack **B** by 1. The last elementbecomes the first one.  
 **rrr** :**rra** and **rrb** at the same time.  
+
+# Run push_swap  
+  
+This will display the necessary instructions to sort the stack.  
+`./push_swap 1 5 4 3 2 `  
+
+To check whether the stack is really sorted, you can run the `./checker` program, as follows  
+`./push_swap 1 5 4 3 2  | ./checker 1 5 4 3 2`  
+If the stack is sorted then the output will be `OK`; if not, then `KO`  
+  
+For debug mode ypu can use '-v' flag in `./checker`, as follows  
+`./checker -v 1 5 4 3 2`  
+In this mode, you can sequentially exec the instructions given above and keep track of the current state of the stack  
