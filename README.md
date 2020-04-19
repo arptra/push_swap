@@ -10,7 +10,7 @@ To start with:
   
   ![Image alt](https://github.com/arptra/push_swap/blob/master/pic/ps_0.png)
 
-The goal is to sort in ascending order numbers into stack **A**.  
+### The goal is to sort in ascending order numbers into stack **A**.  
 To do this you have the following operations at your disposal:  
 **sa** :swap **A**-swap the first 2 elements at the top of stack **A**. Do nothing if thereis only one or no elements.  
 **sb** :swap **B**-swap the first 2 elements at the top of stack **B**. Do nothing if thereis only one or no elements.  
