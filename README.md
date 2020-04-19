@@ -33,3 +33,4 @@ If the stack is sorted then the output will be `OK`; if not, then `KO`
 For debug mode ypu can use '-v' flag in `./checker`, as follows  
 `./checker -v 1 5 4 3 2`  
 In this mode, you can sequentially exec the instructions given above and keep track of the current state of the stack  
+![Alt Text](https://github.com/arptra/push_swap/blob/master/pic/stack_sort.gif)  
