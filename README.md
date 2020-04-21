@@ -36,7 +36,7 @@ To check whether the stack is really sorted, you can run the `./checker` program
 ```
 If the stack is sorted then the output will be `OK`; if not, then `KO`  
   
-For debug mode ypu can use `-v` flag in `./checker`, as follows  
+For debug mode you can use `-v` flag in `./checker`, as follows  
 ```
 ./checker -v 1 5 4 3 2
 ```
